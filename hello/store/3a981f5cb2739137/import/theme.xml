@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Imported Assets" cc_theme_id="import">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
+</char>
+<sound id="among-us-walk.mp3" name="walking-among-us" subtype="soundeffect" duration="1488" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Impostor.swf" name="red sus" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="emergancy-meeting.swf" name="among-us-emergancy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bcf55fc88779cd2a15eec21e62328b1c69049a7f.swf" name="green " holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+
+</theme>
